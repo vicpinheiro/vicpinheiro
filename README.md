@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicpinheiro
 - 👀 I’m interested in all things coding 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & PYTHON
+- 🌱 I’m currently learning JAVASCRIPT, C#, C++ & PYTHON
 - 💞️ I’m looking to collaborate on creative projects that make peoples lives easier 
 - 📫 How to reach me victoriapcamargo@outlook.com
 
